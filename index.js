@@ -28,7 +28,7 @@ EventorApi.CLASSTYPE_OPEN = 19;
 
 EventorApi.prototype.options = function(path) {
     return {
-        url: this.config.eventorApi + path,
+        url: this.config.eventorApiUrl + path,
         headers: {
             'ApiKey': this.config.apiKey
         }
