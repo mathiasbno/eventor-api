@@ -1,6 +1,5 @@
 const request = require('request');
 const parseString = require('xml2js-parser').parseString;
-const firstCharLowerCase = require('xml2js-parser').firstCharLowerCase;
 const processors = require('xml2js/lib/processors');
 
 
