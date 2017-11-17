@@ -5,6 +5,10 @@
   "main": "index.js",
   "license": "MIT",
   "author": "Thomas Babtist <fallebo214@gmail.com>",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/babtist/eventor-api"
+  }
   "devDependencies": {
   },
   "dependencies": {
