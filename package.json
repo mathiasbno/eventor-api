@@ -1,0 +1,15 @@
+{
+  "name": "eventor-api",
+  "version": "0.0.1",
+  "description": "Eventor API",
+  "license": "MIT",
+  "keywords": [],
+  "devDependencies": {
+  },
+  "dependencies": {
+    "@google-cloud/datastore": "^1.1.0",
+    "request": "^2.83.0",
+    "xml2js": "^0.4.19",
+    "xml2js-parser": "^1.1.1"
+  }
+}
